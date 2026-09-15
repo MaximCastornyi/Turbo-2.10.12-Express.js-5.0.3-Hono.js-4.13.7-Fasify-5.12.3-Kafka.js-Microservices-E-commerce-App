@@ -32,7 +32,7 @@ npx prisma studio
 This application is a modern microservices‑based e‑commerce platform built with TypeScript and Next.js in a Monorepo. The frontend uses Next.js 15.4.5 for SSR, SEO, and API integration. The backend combines Fastify, Express, and Hono, with Kafka.js enabling event‑driven workflows. Services run in Docker, ensuring scalability and reliability.
 
 <br/><br/>
-<img width="1212" height="616" alt="1" src="https://github.com/user-attachments/assets/ab253f72-0f3c-44e1-91a0-540433176c8b" />
+<img width="1212" height="616" alt="1" src="https://github.com/user-attachments/assets/23c09cc7-fe31-4186-863e-0d23c502d3b1" />
 <br/><br/>
 <img width="1212" height="616" alt="2" src="https://github.com/user-attachments/assets/906449ee-a774-4801-bd18-709662aa7a7e" />
 <br/><br/>
